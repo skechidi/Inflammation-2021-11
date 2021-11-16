@@ -1,4 +1,4 @@
 Some initial data analysis to identify how inflammation changes over time after a surgery.
 Jane is a Data Engineer and Samit is a Statistician.
 Who is responsible for what in this project?
-
+We will still need a data scientist to help Samit implement PCA and visualisation
